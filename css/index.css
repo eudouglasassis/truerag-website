@@ -1,0 +1,34 @@
+.banner {
+    display: flex;
+    height: 12rem;
+    background: url("/assets/image/banner.jpg");
+    background-size: cover;
+    background-position: right;
+    opacity: 80%;
+    align-items: center;
+    
+}
+
+.banner div {
+    margin: auto;
+}
+
+.banner h1 {
+    margin: auto;
+    width: 8.5rem;
+    padding: 0.75rem;
+    text-align: center;
+    border-radius: 0.25rem;
+    border: 1px solid rgb(25, 25, 25);
+    background-color: rgba(140, 140, 247, 0.875);
+    color: rgb(25, 25, 25);
+}
+
+.banner h6 {
+    margin: 0.5rem auto;
+    padding: 0.25rem;
+    border-radius: 0.25rem;
+    border: 1px solid rgba(25, 25, 25, 1);
+    background-color: rgba(216, 216, 255, 0.875);
+    color: rgba(25, 25, 25, 1);
+}
