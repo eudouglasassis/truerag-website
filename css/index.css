@@ -50,3 +50,7 @@ body {
 .list-group-item {
     width: 100%;
 }
+
+.news .card-text {
+    min-height: 96px;
+}
