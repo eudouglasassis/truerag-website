@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(241, 241, 241);
+}
+
 .banner {
     display: flex;
     height: 12rem;
@@ -37,4 +41,12 @@
     font-size: 1.75rem;
     margin-top: 1.25rem;
     margin-bottom: 0.6rem;
+}
+
+.list-group-horizontal {
+    margin-bottom: 0.5rem;
+}
+
+.list-group-item {
+    width: 100%;
 }
