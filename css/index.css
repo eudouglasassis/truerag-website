@@ -24,16 +24,16 @@ body {
     text-align: center;
     border-radius: 0.25rem;
     border: 1px solid rgb(145, 145, 145);
-    background-color: rgb(140, 140, 247);
+    background-color: rgb(247, 140, 140);
     color: #010101;
 }
 
-.banner h6 {
+.banner p {
     margin: 0.5rem auto;
-    padding: 0.4375rem;
+    padding: 0.25rem 0.5rem;
     border-radius: 0.25rem;
     border: 1px solid rgb(145, 145, 145);
-    background-color: rgb(216, 216, 255);
+    background-color: rgb(241, 241, 241);
     color: #010101;
 }
 
