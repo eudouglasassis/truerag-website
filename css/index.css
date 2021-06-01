@@ -62,3 +62,12 @@ body {
 .news .card-text {
     min-height: 96px;
 }
+
+.login .btn-secondary {
+    width: 47.25%;
+    margin-right: 0.4375rem;
+}
+
+.login .btn-outline-secondary {
+    width: 49.25%;
+}
