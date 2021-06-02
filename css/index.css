@@ -47,52 +47,52 @@ body {
     margin-bottom: 0.5rem;
 }
 
-.infos .list-group-item {
+#infos .list-group-item {
     width: 100%;
 }
 
-.statistics .list-group-item:nth-child(1) {
+#statistics .list-group-item:nth-child(1) {
     min-width: 55%;
 }
 
-.statistics .list-group-item:nth-child(2) {
+#statistics .list-group-item:nth-child(2) {
     min-width: 45%;
 }
 
-.news .card-text {
+#news .card-text {
     min-height: 96px;
 }
 
-.login .btn-secondary {
+#login .btn-secondary {
     width: 47%;
     margin-right: 0.4375rem;
 }
 
-.login .btn-outline-secondary {
+#login .btn-outline-secondary {
     width: 49%;
 }
 
-.motives .card iframe {
+#motives .card iframe {
     border-bottom-left-radius: 0.25rem;
     border-bottom-right-radius: 0.25rem;
 }
 
-.motives .card p {
+#motives .card p {
     margin-bottom: 0;
 }
 
-.map .card .row:nth-child(2) .card-body, .map .card .row:nth-child(3) .card-body {
+#map .card .row:nth-child(2) .card-body, #map .card .row:nth-child(3) .card-body {
     padding-top: 0;
     padding-bottom: 0.5rem;
 }
 
-.footer {
+#footer {
     margin-top: 0.75rem;
     padding: 1rem;
     background-color: rgb(255, 255, 255);
 }
 
-.footer p {
+#footer p {
     text-align: center;
     margin-bottom: 0.25rem;
 }

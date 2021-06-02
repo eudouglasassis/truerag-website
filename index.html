@@ -17,21 +17,36 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Informações</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Downloads</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Manifesto</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Cadastrar</a>
-                        </li>
+                        <div class="row">
+                            <div class="col"
+                                <li class="nav-item">
+                                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#features">Features</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#infos">Informações</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#news">Novidades</a>
+                                </li>
+                            </div>
+                            <div class="col">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#login">Acesso</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#motives">Movitos</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#statistics">Estatísticas</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#map">Mapa do site</a>
+                                </li>
+                            </div>
+                        </div>
                     </ul>
                 </div>
             </div>
@@ -42,13 +57,9 @@
                 <p>A experiência do verdadeiro Ragnarok</p>
             </div>
         </section>
-        <!-- <form class="container d-flex">
-            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success" type="submit">Search</button>
-        </form> -->
     </header>
     <main>
-        <section class="container features">
+        <section id="features" class="container">
             <h1>Features</h1>
             <div class="row row-cols-1 row-cols-md-4 g-2">
                 <div class="col">
@@ -84,7 +95,7 @@
                     </div>
                 </div>
         </section>
-        <section class="container infos">
+        <section id="infos" class="container">
             <h1>Informações</h1>
             <ul class="list-group list-group-horizontal">
                 <li class="list-group-item">&#128295 EXP Rates</li>
@@ -140,7 +151,7 @@
                     </div>
                 </div>
         </section>
-        <section class="container news">
+        <section id="news" class="container">
             <h1>Novidades</h1>
             <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
@@ -174,7 +185,7 @@
                 </div>
               </div>
         </section>
-        <section class="container login">
+        <section id="login" class="container">
             <h1>Acesso de conta</h1>
             <form>
                 <div class="mb-3">
@@ -194,7 +205,7 @@
                 <button type="submit" class="btn btn-outline-secondary">Registrar</button>
             </form>
         </section>
-        <section class="container motives">
+        <section id="motives" class="container">
             <h1>Motivos para jogar</h1>
             <div class="card">
                 <div class="card-body text-dark">
@@ -206,7 +217,7 @@
                 </div>
             </div>
         </section>
-        <section class="container statistics">
+        <section id="statistics" class="container">
             <h1>Estatística mensal</h1>
             <ul class="list-group list-group-horizontal">
                 <li class="list-group-item">🐉 MVPs Derrotados</li>
@@ -231,7 +242,7 @@
         </section>
     </main>
     <footer>
-        <section class="container map">
+        <section id="map" class="container">
             <h1>Mapa do site</h1>
             <div class="card">
                 <div class="row">
@@ -280,7 +291,7 @@
                 </div>
             </div>
         </section>
-        <section class="container footer">
+        <section id="footer" class="container">
             
             <p>TrueRag - Ragnarok Online Server</p>
             <p>Todos os direitos reservados © 2020</p>
