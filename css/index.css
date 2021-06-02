@@ -64,12 +64,12 @@ body {
 }
 
 .login .btn-secondary {
-    width: 47.25%;
+    width: 47%;
     margin-right: 0.4375rem;
 }
 
 .login .btn-outline-secondary {
-    width: 49.25%;
+    width: 49%;
 }
 
 .motives .card iframe {
@@ -84,6 +84,12 @@ body {
 .map .card .row:nth-child(2) .card-body, .map .card .row:nth-child(3) .card-body {
     padding-top: 0;
     padding-bottom: 0.5rem;
+}
+
+.footer {
+    margin-top: 0.75rem;
+    padding: 1rem;
+    background-color: rgb(255, 255, 255);
 }
 
 .footer p {
