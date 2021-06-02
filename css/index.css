@@ -5,7 +5,7 @@ body {
 .banner {
     display: flex;
     height: 12rem;
-    background: url("~/assets/image/banner.jpg");
+    background: url("truerag-website/assets/image/banner.jpg");
     background-size: cover;
     background-position: right;
     opacity: 80%;
