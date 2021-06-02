@@ -71,3 +71,7 @@ body {
 .login .btn-outline-secondary {
     width: 49.25%;
 }
+
+.motives .card p {
+    margin-bottom: 0;
+}
