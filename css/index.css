@@ -47,16 +47,20 @@ body {
     margin-bottom: 0.5rem;
 }
 
-#infos .list-group-item {
-    width: 100%;
+#infos .list-group-item:nth-child(1) {
+    min-width: 54.5%;
+}
+
+#infos .list-group-item:nth-child(2) {
+    min-width: 44.5%;
 }
 
 #statistics .list-group-item:nth-child(1) {
-    min-width: 55%;
+    min-width: 65%;
 }
 
 #statistics .list-group-item:nth-child(2) {
-    min-width: 45%;
+    min-width: 35%;
 }
 
 #news .card-text {
