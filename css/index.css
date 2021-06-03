@@ -139,3 +139,15 @@ body {
         max-height: 14.2rem;
     }
 }
+
+@media (min-width: 1200px) { 
+    .banner {
+        height: 20rem;
+        background-size:cover;
+        background-position-y: initial;
+    }
+
+    .banner h1 {
+        width: 70%;
+    }
+}
