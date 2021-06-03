@@ -101,4 +101,18 @@ body {
     #infos .row:nth-child(2) .col:nth-child(2) {
         margin: 0;
     }
+
+    #news, #statistics {
+        margin: 0;
+    }
+}
+
+@media (min-width: 576px) { 
+    #news .card {
+        height: 17.25rem;
+    }
+
+    #motives .card {
+        height: 21.25rem;
+    }
 }
