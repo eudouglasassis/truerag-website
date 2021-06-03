@@ -48,7 +48,7 @@ body {
 }
 
 #infos .list-group-item:nth-child(1) {
-    min-width: 54.5%;
+    min-width: 55.5%;
 }
 
 #infos .list-group-item:nth-child(2) {
@@ -63,17 +63,13 @@ body {
     min-width: 35%;
 }
 
-#news .card-text {
-    min-height: 96px;
-}
-
 #login .btn-secondary {
     width: 47%;
     margin-right: 0.4375rem;
 }
 
 #login .btn-outline-secondary {
-    width: 49%;
+    width: 49.75%;
 }
 
 #motives .card iframe {
