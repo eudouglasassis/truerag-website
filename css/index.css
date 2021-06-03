@@ -2,6 +2,11 @@ body {
     background-color: rgb(241, 241, 241);
 }
 
+.navbar .col {
+    width: 16%;
+    text-align: center;
+}
+
 .banner {
     display: flex;
     height: 12rem;
@@ -79,7 +84,6 @@ body {
 #motives .card iframe {
     border-bottom-left-radius: 0.25rem;
     border-bottom-right-radius: 0.25rem;
-    max-height: 12.75rem;
 }
 
 #motives .card p {
@@ -123,5 +127,15 @@ body {
 
     #motives .card {
         height: 21.25rem;
+    }
+
+    #motives .card iframe {
+        max-height: 12.75rem;
+    }
+}
+
+@media (min-width: 992px) { 
+    #motives .card iframe {
+        max-height: 14.2rem;
     }
 }
