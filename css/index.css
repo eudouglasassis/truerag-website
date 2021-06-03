@@ -19,7 +19,7 @@ body {
 
 .banner h1 {
     margin: auto;
-    width: 8.75rem;
+    width: 55%;
     padding: 0.875rem;
     text-align: center;
     border-radius: 0.25rem;
@@ -79,6 +79,7 @@ body {
 #motives .card iframe {
     border-bottom-left-radius: 0.25rem;
     border-bottom-right-radius: 0.25rem;
+    max-height: 12.75rem;
 }
 
 #motives .card p {
