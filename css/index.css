@@ -96,3 +96,9 @@ body {
     text-align: center;
     margin-bottom: 0.25rem;
 }
+
+@media (max-width: 576px) {    
+    #infos .row:nth-child(2) .col:nth-child(2) {
+        margin: 0;
+    }
+}
