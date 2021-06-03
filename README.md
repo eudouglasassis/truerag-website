@@ -6,4 +6,4 @@ Website desenvolvido para um servidor privado de Ragnarok Online utilizando HTML
 
 ### :link: https://eudouglasassis.github.io/truerag-website/
 
-### :iphone: Versão inicial do website funcionando para mobile devices.
+### :iphone: Versão 1.0 do website funcionando.
