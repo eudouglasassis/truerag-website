@@ -99,10 +99,6 @@ body {
     margin-bottom: 0.75rem;
 }
 
-#map .d-flex {
-    text-align: center;
-}
-
 #footer {
     margin-top: 0.75rem;
     padding: 1rem;
@@ -157,5 +153,11 @@ body {
 
     .banner h1 {
         width: 70%;
+    }
+}
+
+@media (max-width: 400px) {
+    #map .d-flex {
+        text-align: center;
     }
 }
