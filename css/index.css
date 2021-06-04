@@ -95,6 +95,14 @@ body {
     padding-bottom: 0.5rem;
 }
 
+#map .row {
+    margin-bottom: 0.75rem;
+}
+
+#map .d-flex {
+    text-align: center;
+}
+
 #footer {
     margin-top: 0.75rem;
     padding: 1rem;
