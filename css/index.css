@@ -53,11 +53,11 @@ body {
 }
 
 #infos .list-group-item:nth-child(1) {
-    min-width: 55.5%;
+    min-width: 55.85%;
 }
 
 #infos .list-group-item:nth-child(2) {
-    min-width: 44.5%;
+    min-width: 44.15%;
 }
 
 #statistics .list-group-item:nth-child(1) {
@@ -139,9 +139,15 @@ body {
     }
 }
 
+@media (min-width: 734px) { 
+    #motives .card iframe {
+        max-height: 11.25rem;
+    }
+}
+
 @media (min-width: 992px) { 
     #motives .card iframe {
-        max-height: 14.2rem;
+        max-height: 12.75rem;
     }
 }
 
@@ -155,6 +161,10 @@ body {
 
     .banner h1 {
         width: 70%;
+    }
+
+    #motives .card iframe {
+        max-height: 14.25rem;
     }
 }
 
