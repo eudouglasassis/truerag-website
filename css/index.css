@@ -120,7 +120,14 @@ footer p {
     }
 }
 
-@media (min-width: 576px) { 
+@media (min-width: 576px) {
+    #news .card-text {
+        max-height: 9rem;
+        display: inline-block;
+        text-overflow: ellipsis;
+	    overflow: hidden;
+    }
+
     #motives .card {
         height: 21.25rem;
     }
@@ -134,9 +141,16 @@ footer p {
     }
 }
 
-@media (min-width: 734px) {
+@media (min-width: 737px) {
     #motives .card iframe {
         max-height: 11.25rem;
+    }
+
+    #news .card-text {
+        max-height: 5.75rem;
+        display: inline-block;
+        text-overflow: ellipsis;
+	    overflow: hidden;
     }
 }
 
@@ -158,11 +172,7 @@ footer p {
         width: 70%;
     }
 
-    #motives .card iframe {
+    #motives .card iframe, #motives .ratio {
         max-height: 14.25rem;
-    }
-
-    #news .card-body {
-        width: 70%;
     }
 }
