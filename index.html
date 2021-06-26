@@ -137,6 +137,14 @@
                     <div class="col">
                         <div class="card">
                             <div class="card-body text-dark">
+                                <h5 class="card-title">🕐 Desde 2018</h5>
+                                <p class="card-text">O TrueRag está promovendo diversão aos seus jogadores desde 2018.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card">
+                            <div class="card-body text-dark">
                                 <h5 class="card-title">❌ Pay-to-Win</h5>
                                 <p class="card-text">Donation e usuários Vip não existem, somente o trabalho duro funciona aqui.</p>
                             </div>
@@ -150,36 +158,112 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col">
-                        <div class="card">
-                            <div class="card-body text-dark">
-                                <h5 class="card-title">🕐 Desde 2018</h5>
-                                <p class="card-text">O TrueRag está promovendo diversão aos seus jogadores desde 2018.</p>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </section>
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 g-3">
                 <section id="login" class="container-xl col">
                     <h1>Acesso de conta</h1>
                     <form>
-                        <div class="mb-3">
-                            <label for="exampleInputEmail1" class="form-label">E-mail ou conta de usuário</label>
-                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 g-3">
+                            <div class="mb-1 col">
+                                <label for="exampleInputEmail1" class="form-label">E-mail ou usuário</label>
+                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                            </div>
+                            <div class="mb-1 col">
+                                <label for="exampleInputPassword1" class="form-label">Password</label>
+                                <input type="password" class="form-control" id="exampleInputPassword1">
+                            </div>
+                            <div id="emailHelp" class="form-text mb-3">Esqueci minha senha ou usuário.</div>
                         </div>
-                        <div class="mb-3">
-                            <label for="exampleInputPassword1" class="form-label">Password</label>
-                            <input type="password" class="form-control" id="exampleInputPassword1">
-                            <div id="emailHelp" class="form-text">Esqueci minha senha ou usuário.</div>
-                        </div>
-                        <div class="mb-3 form-check">
+                        <div class="mb-4 form-check">
                             <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                            <label class="form-check-label" for="exampleCheck1">Não sou um robo</label>
+                            <label class="form-check-label" for="exampleCheck1">Eu não sou um robo</label>
                         </div>
                         <button type="submit" class="btn btn-secondary">Entrar</button>
-                        <button type="submit" class="btn btn-outline-secondary">Registrar</button>
+                        <button type="button" class="btn btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                            Registrar
+                        </button>
                     </form>
+                    <section id="register">
+                        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="exampleModalLabel">Crie sua conta no jogo</h5>
+                                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    <form class="row g-3 needs-validation">
+                                        <div class="col-md-4">
+                                          <label for="validationCustom01" class="form-label">Primeiro nome</label>
+                                          <input type="text" class="form-control" id="validationCustom01" placeholder="Digite aqui" required>
+                                          <div class="valid-feedback">
+                                            Parece bom!
+                                          </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                          <label for="validationCustom02" class="form-label">Sobrenome</label>
+                                          <input type="text" class="form-control" id="validationCustom02" placeholder="Digite aqui" required>
+                                          <div class="valid-feedback">
+                                            Parece bom!
+                                          </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                          <label for="validationCustomUsername" class="form-label">Nome de usuário</label>
+                                          <div class="input-group has-validation">
+                                            <span class="input-group-text" id="inputGroupPrepend">@</span>
+                                            <input type="text" class="form-control" id="validationCustomUsername" aria-describedby="inputGroupPrepend" required>
+                                            <div class="invalid-feedback">
+                                              Por favor escolha um nome de usuário.
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <label for="validationCustom05" class="form-label">Senha da conta</label>
+                                            <input type="password" class="form-control" id="validationCustom05" required>
+                                            <div class="invalid-feedback">
+                                              Entre com uma senha válida.
+                                            </div>
+                                          </div>
+                                        <div class="col-md-6">
+                                          <label for="validationCustom03" class="form-label">E-mail válido</label>
+                                          <input type="email" class="form-control" id="validationCustom03" required>
+                                          <div class="invalid-feedback">
+                                            Entre com um e-mail válido.
+                                          </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                          <label for="validationCustom04" class="form-label">Sexo do personagem</label>
+                                          <select class="form-select" id="validationCustom04" required>
+                                            <option selected disabled value="">...</option>
+                                            <option>Feminino</option>
+                                            <option>Masculino</option>
+                                            <option></option>
+                                          </select>
+                                          <div class="invalid-feedback">
+                                            Por favor, selecione uma opção.
+                                          </div>
+                                        </div>
+                                        <div class="col-12">
+                                          <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
+                                            <label class="form-check-label" for="invalidCheck">
+                                              Eu concordo com os termos da comunidade
+                                            </label>
+                                            <div class="invalid-feedback">
+                                              Para prosseguir concorde com os termos.
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div class="register-btn d-flex">
+                                            <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Fechar</button>
+                                            <button class="btn btn-secondary" type="submit">Registrar</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
                 </section>
                 <section id="news" class="col">
                     <h1>Novidades</h1>
@@ -189,7 +273,7 @@
                             <div class="card">
                                 <div class="card-body text-dark">
                                     <h5 class="card-title">Implementação do Episódio 5.0</h5>
-                                    <p class="card-text">Chega ao nosso continente as novas cidades de Amatsu e Kulun, com esse episódio que promete muita diversão e desafios para de Rune-midgard.</p>
+                                    <p class="card-text">Chega ao nosso continente as novas cidades de Amatsu e Kulun, com esse episódio que promete muita diversão e inúmeros desafios para os nossos jogadores de Rune-midgard. Venha fazer parte dessa aventura!</p>
                                     <button type="button" class="btn btn-outline-secondary">Abrir notícia completa</button>
                                 </div>
                             </div>
@@ -198,7 +282,7 @@
                             <div class="card">
                                 <div class="card-body text-dark">
                                     <h5 class="card-title">Inauguração Oficial do Servidor</h5>
-                                    <p class="card-text">Agora é pra valer! Está oficialmente inaugurado o servidor Privado de Ragnarok Online: TrueRag. Nossa fase Beta foi um sucesso e estamos preparados para o futuro.</p>
+                                    <p class="card-text">Agora é pra valer! Está oficialmente inaugurado o servidor Privado de Ragnarok Online: TrueRag. Nossa fase Beta foi um sucesso e estamos mais do que preparados para um grande futuro promissor!</p>
                                     <button type="button" class="btn btn-outline-secondary">Abrir notícia completa</button>
                                 </div>
                             </div>
@@ -206,8 +290,8 @@
                         <div class="carousel-item">
                             <div class="card">
                                 <div class="card-body text-dark">
-                                    <h5 class="card-title">Abertura do Servidor Beta</h5>
-                                    <p class="card-text">Está iniciada a fase de teste do Servidor TrueRag, com um beta contendo o Episódio 3.0 e já com todas as funcionalidades que irão existir na versão oficial do jogo.</p>
+                                    <h5 class="card-title">Abertura do nosso Servidor Beta</h5>
+                                    <p class="card-text">Está iniciada a fase Beta de testes do Servidor TrueRag, com um beta contendo o Episódio 3.0 e já com todas as funções que irão existir na versão oficial do jogo. Faça parte dessa primeira experiência e ajude.</p>
                                     <button type="button" class="btn btn-outline-secondary">Abrir notícia completa</button>
                                 </div>
                             </div>

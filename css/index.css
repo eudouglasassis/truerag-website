@@ -81,6 +81,14 @@ body {
     width: 48.5725%;
 }
 
+.register-btn .btn-outline-secondary {
+    margin: 0 1% 0 0;
+}
+
+.register-btn .btn-secondary {
+    margin: 0 0 0 1%;
+}
+
 #motives .card iframe {
     border-bottom-left-radius: 0.25rem;
     border-bottom-right-radius: 0.25rem;
@@ -113,10 +121,6 @@ footer p {
 }
 
 @media (min-width: 576px) { 
-    #news .card {
-        height: 17.25rem;
-    }
-
     #motives .card {
         height: 21.25rem;
     }
@@ -130,7 +134,7 @@ footer p {
     }
 }
 
-@media (min-width: 734px) { 
+@media (min-width: 734px) {
     #motives .card iframe {
         max-height: 11.25rem;
     }
@@ -156,5 +160,9 @@ footer p {
 
     #motives .card iframe {
         max-height: 14.25rem;
+    }
+
+    #news .card-body {
+        width: 70%;
     }
 }
