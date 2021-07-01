@@ -25,7 +25,7 @@ cd truerag-website
 <img src="https://img.shields.io/badge/-HTML-%23333333?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/-CSS-%23333333?style=for-the-badge&logo=css3"> <img src="https://img.shields.io/badge/-JAVASCRIPT-%23333333?style=for-the-badge&logo=javascript"> <img src="https://img.shields.io/badge/-BOOTSTRAP-%23333333?style=for-the-badge&logo=bootstrap">
 
 ## Quem escreveu o código?
-<h3>:wave: Olá, sou o Douglas Assis</h3>
+<h3>:wave: Olá, sou o Douglas Assis!</h3>
 <table>
   <tr>
     <td>
