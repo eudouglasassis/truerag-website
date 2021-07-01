@@ -10,7 +10,7 @@
 
 
 ## Como utilizar o projeto?
-<p>O repositório é regulamentado por licença do tipo <strong>MIT License</strong>, que permite que o código seja <strong>modificado</strong> e <strong>distribuído</strong>, dentre outras questões. Para <strong>descarregar</strong> o projeto completo em seu computador basta seguir os <strong>passos</strong> abaixo:<p>
+<p>O repositório é regulamentado por licença do tipo <strong>MIT License</strong>, que permite que o código seja <strong>modificado</strong> e <strong>distribuído</strong>, dentre outras questões. Para <strong>baixar</strong> o projeto em seu computador basta seguir os <strong>passos</strong> abaixo:<p>
 
 ```bash
 # Faça o clone do repositório pelo terminal
