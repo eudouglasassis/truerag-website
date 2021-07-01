@@ -1,6 +1,6 @@
 # TrueRag - Private Ragnarok Server
 #### Projeto de um website desenvolvido para servidores privados de Ragnarok Online, um jogo clássico de MMORPG.
-<img src="./assets/image/banner.jpg">
+<img src="./assets/image/banner_readme.jpg">
 
 ## Resumo do projeto
 <p> O repositório contém o código do <strong>Front-end</strong> de um modelo de website para servidores privados de Ragnarok Online, que pode ser <strong>modificado</strong> e <strong>adaptado</strong> para novos servidores e ser acrescido de <strong>novas</strong> features. O projeto foi desenvolvido em <strong>single page</strong> e <strong>mobile first</strong>, contando com responsividade completa para <strong>todos</strong> os devices.</p>
