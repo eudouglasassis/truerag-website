@@ -26,7 +26,6 @@ cd truerag-website
     </td>
     <td>
       <p>
-       <br />
       <strong>:dart: Meu objetivo é ser um facilitador e solucionador de problemas utilizando a Tecnologia.</strong><br />
       :books:  Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.<br />
       :rocket: Fundamentos sólidos em: HTML5 | CSS3 | JavaScript | Bootstrap | Git | Linux.<br />
