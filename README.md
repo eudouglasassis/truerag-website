@@ -5,9 +5,9 @@
 ## Resumo do projeto
 <p> O repositório contém o código do <strong>Front-end</strong> de um modelo de website para servidores privados de Ragnarok Online, que pode ser <strong>modificado</strong> e <strong>adaptado</strong> para novos servidores e ser acrescido de <strong>novas</strong> features. O projeto foi desenvolvido em <strong>single page</strong> e <strong>mobile first</strong>, contando com responsividade completa para <strong>todos</strong> os devices.</p>
 
-### Página do projeto: https://eudouglasassis.github.io/truerag-website/
+#### Página do projeto: https://eudouglasassis.github.io/truerag-website/
 
-### Vídeo de presentação: https://www.youtube.com/watch?v=KUKAycrCSsg&t=1s
+#### Vídeo de presentação: https://www.youtube.com/watch?v=KUKAycrCSsg&t=1s
 
 ## Como utilizar o projeto?
 <p>O repositório é regulamentado por licença do tipo <strong>MIT License</strong>, que permite que o código seja <strong>modificado</strong> e <strong>distribuído</strong>, dentre outras questões. Para <strong>baixar</strong> o projeto em seu computador basta seguir os <strong>passos</strong> abaixo:<p>
