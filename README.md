@@ -7,7 +7,9 @@
 
 ### :link: página do projeto: https://eudouglasassis.github.io/truerag-website/
 
-### :movie_camera: video de presentação: https://www.youtube.com/watch?v=KUKAycrCSsg&t=1s
+## Vídeo de presentação
+
+<a href="https://www.youtube.com/watch?v=KUKAycrCSsg&t=1s"> Abrir apresentação no Youtube</a>
 
 ## Como utilizar o projeto?
 <p>O repositório é regulamentado por licença do tipo <strong>MIT License</strong>, que permite que o código seja <strong>modificado</strong> e <strong>distribuído</strong>, dentre outras questões. Para <strong>baixar</strong> o projeto em seu computador basta seguir os <strong>passos</strong> abaixo:<p>
