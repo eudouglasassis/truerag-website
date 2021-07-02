@@ -25,7 +25,9 @@ cd truerag-website
 <img src="https://img.shields.io/badge/-HTML-%23333333?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/-CSS-%23333333?style=for-the-badge&logo=css3"> <img src="https://img.shields.io/badge/-JAVASCRIPT-%23333333?style=for-the-badge&logo=javascript"> <img src="https://img.shields.io/badge/-BOOTSTRAP-%23333333?style=for-the-badge&logo=bootstrap">
 
 ## Quem escreveu o código?
-<h3>:wave: Olá, sou o Douglas Assis!</h3>
+  
+### :wave: Olá, sou o Douglas Assis
+  
 <table>
   <tr>
     <td>
@@ -43,3 +45,9 @@ cd truerag-website
     </td>
   </tr>
  </table>
+ 
+ ### Me adicione nas Redes Sociais
+ 
+ <a href="https://www.linkedin.com/in/eudouglasassis/" target="_blank"><img src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram"></a>  <a href="https://www.instagram.com/douglasoassis/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=linkedin"></a>
+ 
+ 
