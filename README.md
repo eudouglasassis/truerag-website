@@ -46,7 +46,7 @@ cd truerag-website
   </tr>
  </table>
  
- ### :boy: Me adicione nas Redes Sociais
+ ### Me adicione nas Redes Sociais
  
  <a href="https://www.linkedin.com/in/eudouglasassis/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=linkedin"></a>  <a href="https://www.instagram.com/douglasoassis/" target="_blank"><img src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram"></a>
  
