@@ -48,6 +48,4 @@ cd truerag-website
  
  ### Minhas redes
  
- <a href="https://www.linkedin.com/in/eudouglasassis/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=linkedin"></a>  <a href="https://www.instagram.com/douglasoassis/" target="_blank"><img src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram"></a> ><img src="https://img.shields.io/badge/-douglasAssis#9380-black?style=for-the-badge&logo=discord">
- 
- 
+ <a href="https://www.linkedin.com/in/eudouglasassis/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=linkedin"></a>  <a href="https://www.instagram.com/douglasoassis/" target="_blank"><img src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram"></a>
