@@ -22,7 +22,7 @@ cd truerag-website
 # Abra o projeto pelo navegador ou utilize seu código e assets como desejar.
 ```
 ## Quais tecnologias foram utilizadas?
-<img src="https://img.shields.io/badge/-HTML-%23333333?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/-CSS-%23333333?style=for-the-badge&logo=css3"> <img src="https://img.shields.io/badge/-JAVASCRIPT-%23333333?style=for-the-badge&logo=javascript"> <img src="https://img.shields.io/badge/-BOOTSTRAP-%23333333?style=for-the-badge&logo=bootstrap">
+<img src="https://img.shields.io/badge/-JAVASCRIPT-%23333333?style=for-the-badge&logo=javascript"> <img src="https://img.shields.io/badge/-BOOTSTRAP-%23333333?style=for-the-badge&logo=bootstrap">
 
 ## Quem escreveu o código?
   
