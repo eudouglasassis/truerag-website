@@ -36,10 +36,9 @@ cd truerag-website
     <td>
       <p>
       <br>
-      <strong>:dart: Meu objetivo é ser um facilitador e solucionador de problemas usando tecnologia.</strong><br />
+      <strong>:dart: Meu objetivo é ser um solucionador de problemas usando tecnologia.</strong><br />
       :rocket: Fundamentos sólidos em: HTML5 | CSS3 | JavaScript | Bootstrap | Git | Linux.<br />
       :fire: Estudante assíduo de: Algoritmos | Estrutura de Dados | Arquitetura de Software.<br />
-      :mortar_board: Formação: Bacharel em Engenharia civil.
       </p>      
     </td>
   </tr>
