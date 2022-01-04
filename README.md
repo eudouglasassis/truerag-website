@@ -46,4 +46,4 @@ cd truerag-website
  
  ### Minhas redes
  
-<a href="https://www.instagram.com/eusouoassis/" target="_blank"><img src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.instagram.com/eudouglasassis/" target="_blank"><img src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram"></a>
